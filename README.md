@@ -22,11 +22,11 @@ Run the following command -
 
 ---
 
-You can download a youtube video using the `youtube_video.py` with changing the link to your desired video.
+You can download a youtube video using the `youtube_video.py` and change the link to your desired video.
 
 `python youtube_video.py`
 
-Since we mainly working with news videos, it will be saved as news.mp4 in the same directory.
+Since we mainly work with news videos/videos with text embedded in it, it will be saved as news.mp4 in the same directory.
 The mp4 file is downloaded in the same directory.
 
 ---
@@ -40,7 +40,7 @@ This will create a labeled_news.mp4 along with annotations.txt where you can fin
 
 You can also find the [kaggle notebook](https://www.kaggle.com/saty101/image-text) where you can find the code with embedded videos(along with the results)
 
-The full workflow code is in this [notebook](https://github.com/saty101/image-to-text/blob/main/full_workflow.ipynb) which shows how annotations with one image and then creating the whole vide but the videos are not visible in the jupyter notebook.
+The full workflow code is in this [notebook](https://github.com/saty101/image-to-text/blob/main/full_workflow.ipynb) which shows how annotations with one image and then creating the whole vide0 but the videos are not visible in the jupyter notebook.
 Colab notebook link of the same notebook - [link](https://colab.research.google.com/github/saty101/image-to-text/blob/main/full_workflow.ipynb)
 
 Simply change the `link = <desired link>` to annotate the video you want to.
