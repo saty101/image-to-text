@@ -45,5 +45,5 @@ Colab notebook link of the same notebook - [link](https://colab.research.google.
 
 Simply change the `link = <desired link>` to annotate the video you want to.
 
-[Colab noteboook](https://colab.research.google.com/github/saty101/image-to-text/blob/main/final_workflow.ipynb) but the videos can only be downloaded as embedded videos in colab crash and cause the runtime to start again.
+[Colab noteboook](https://colab.research.google.com/github/saty101/image-to-text/blob/main/final_notebook.ipynb) but the videos can only be downloaded as embedded videos in colab crash and cause the runtime to start again.
 
