@@ -1,0 +1,7 @@
+pytesseract
+opencv-python
+Pillow
+youtube_dl
+imageio
+numpy
+youtube_dl
